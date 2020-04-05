@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-subtitle: திரைகடல் ஓடியும் திரவியம் தேடு
+subtitle: The Journey So Far
 ---
 <h1> <b>Education</b> </h1>
  Jun 2014 - Nov 2018   &nbsp;&nbsp;&nbsp;&nbsp;   B.Tech Aerospace Engineering, Hindustan University, India
@@ -13,7 +13,7 @@ subtitle: திரைகடல் ஓடியும் திரவியம�
   
  <h1><b> Other Experience </b></h1> 
  
- <b>1.Training in Indian Institute of Remote Sensing </b>
+ <b>1.Training in Indian Institute of Remote Sensing, ISRO </b>
   
 I was selected among 40 students to attend a two-month short course on remote sensing and image analysis, which was conducted by the Indian Institute of Remote Sensing, Indian Space Research Organization, Dehradun, India. The main objective of this program is to train and improve the capacity of working professionals, researchers, and students in the field of remote sensing with special emphasis on processing of remotely sensed data using digital image processing techniques.
 
