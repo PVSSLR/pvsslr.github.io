@@ -20,8 +20,8 @@ description: Welcome to my profile
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Experience: 
+  
+  Experience: 'aboutme'
   Projects:
     - Academic: ""
     - Tutorials: " "
