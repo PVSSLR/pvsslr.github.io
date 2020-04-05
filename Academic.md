@@ -4,7 +4,7 @@ title: Academic Projects
 subtitle: Completed projects
 ---
 
- <div class="container my-4">
+ <center><div class="container my-4">
 
     <p class="font-weight-bold">Bootstrap image slider is responsive and interactive slideshow which is created for
       presenting content, especially images and videos.</p>
@@ -114,4 +114,4 @@ subtitle: Completed projects
     </div>
     <!--/.Carousel Wrapper-->
 
-  </div>
+  </div></center>
