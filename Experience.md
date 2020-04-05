@@ -3,6 +3,11 @@ layout: page
 title: Experience
 subtitle: The Journey So Far
 ---
+images: 
+  - image: 'images/IMG_2996.JPG'
+  - image: 'images/88196498_3190379270972775_7735675917632012288_o.jpg'
+  - image: 'images/rot.JPG.jpg'
+  
 <h1> <b>Education</b> </h1>
  Jun 2014 - Nov 2018   &nbsp;&nbsp;&nbsp;&nbsp;   B.Tech Aerospace Engineering, Hindustan University, India
   
