@@ -22,10 +22,12 @@ description: Welcome to my profile
 navbar-links:
   About Me: "aboutme"
   Experience: 
+  Projects:
+    - Academic: ""
+    - Tutorials: " "
+    - Side Project: ""
+  Courses: "content"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -33,7 +35,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#title-img: "/img/avatar-icon.png"
+title-img: "/img/avatar-icon.png"
 
 # --- Background colour/image options --- #
 
@@ -52,9 +54,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+ navbar-img: "/img/bgimage.png"
+ footer-img: "/img/bgimage.png"
+ page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
