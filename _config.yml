@@ -23,7 +23,7 @@ navbar-links:
   
   Experience: 'Experience'
   Projects:
-    - Academic: ""
+    - Academic: "Academic"
     - Tutorials: " "
     - Side Project: ""
   Courses: "content"
