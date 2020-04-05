@@ -21,7 +21,7 @@ description: Welcome to my profile
 # List of links in the navigation bar
 navbar-links:
   
-  Experience: 'aboutme'
+  Experience: 'Experience'
   Projects:
     - Academic: ""
     - Tutorials: " "
