@@ -79,8 +79,8 @@
 {% endfor %}
 
 .carousel__control {
-  height: 30px;
-  width: 30px;
+  height: 20px;
+  width: 20px;
   margin-top: -15px;
   top: 50%;
   position: absolute;
@@ -167,7 +167,8 @@
   height: 30px;
   width: 30px;
 }
-
+.carousel__indicator {
+  background-color: #111111;
 }
 {% for item in site.data.carousel.images %}
 .carousel__slide:nth-of-type({{ forloop.index }}),
