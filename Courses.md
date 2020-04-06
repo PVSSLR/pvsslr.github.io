@@ -4,7 +4,8 @@ title: Online Courses
 subtitle: The Journey So Far
 ---
 I love to learn new things whenever I get the free time. For the past few years, I have been completing online certification courses every month and it has become my new habit. I audit courses from various platforms such as Coursera, Udemy, Edx, etc. I do believe that what we learn matters the most than these certificates.
-{% include carousel.html height="525" unit="px" duration="1" %}
+
+   {% include carousel.html height="525" unit="px" duration="1" %}
 
 <h2>List of online courses:</h2>
 <ul>
