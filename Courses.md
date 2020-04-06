@@ -3,7 +3,7 @@ layout: page
 title: Online Courses
 subtitle: The Journey So Far
 ---
-I love to learn new things whenever I get free time. For the past few years, I have been completing online certification courses every month has become my new habit. I audit various courses from platforms such as Coursera, Udemy, Edx, etc. I do believe that what we learn matters the most than these certificates.
+I love to learn new things whenever I get the free time. For the past few years, I have been completing online certification courses every month and it has become my new habit. I audit courses from various platforms such as Coursera, Udemy, Edx, etc. I do believe that what we learn matters the most than these certificates.
 
 <h2>List of online courses:</h2>
 <ul>
@@ -41,7 +41,7 @@ I love to learn new things whenever I get free time. For the past few years, I h
 <h2> My Skills </h2>
 </ul>  
 
-<Center>
+
 <table>
   <tr>
     <td><table border="1">
@@ -80,5 +80,5 @@ I love to learn new things whenever I get free time. For the past few years, I h
     </table></td>
   </tr>
 </table>  
-</center>
+
     
