@@ -24,7 +24,7 @@ navbar-links:
   Experience: 'Experience'
   Projects:
     - Academic: "Academic"
-    - Tutorials: " "
+    - Tutorials: "/tutorials/cubesat "
     - Side Project: ""
   Courses: "Courses"
   Resources: "Resources"
