@@ -4,3 +4,4 @@ title: Academic Projects
 subtitle: Completed projects
 ---
 {% include image-gallery.html folder="/images" %}
+{% include thumbnails.html %}
