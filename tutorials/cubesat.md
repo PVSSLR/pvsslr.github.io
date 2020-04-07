@@ -1,8 +1,8 @@
-<img src="images/prototype1.jpg" width="180" height ="180">  <img src="images/cub.png" width="180" height ="180"> 
 
-Note:- The above pictures are the prototype 1 & 2 of the CubeSat.
 
-# CUBESAT USING ARDUINO 
+
+#Tutorial #1
+## CUBESAT USING ARDUINO 
 
 A Picosatellite is made using the Arduino development board with an open-source architecture. The project aims to replicate the working mechanism of a CubeSat. 
 
