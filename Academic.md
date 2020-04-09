@@ -3,5 +3,5 @@ layout: page
 title: Academic Projects
 subtitle: Completed projects
 ---
-{% include image_agallery_alter.html %}
+{% include image_gallery_alter.html %}
 
