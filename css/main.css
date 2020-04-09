@@ -794,3 +794,9 @@ pre {
   bottom: 0;
   margin: auto;
 }
+.navbar-header .navbar-brand{
+  font-weight: 700 !important;
+}
+.nav.navbar-nav li a{
+  font-weight: 600;
+}
