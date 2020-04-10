@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Academic Projects
-subtitle: Completed projects
+title: Tutorials
+subtitle: More coming soon
 ---
 
 {% include tuto.html %}
