@@ -814,6 +814,9 @@ a{
   padding: 20px;
   text-align: right;
 }
+.project .single-project{
+  position: relative;
+}
 .project .project-caption{
   position: absolute;
   left: 0;
