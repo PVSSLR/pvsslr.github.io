@@ -808,8 +808,8 @@ a{
 .slider_caption {
   position: absolute;
   width: 100%;
-  bottom: 5;
-  background: rgba(0,0,0,0.7);
+  bottom: 0;
+  background: rgba(0,0,0,0.5);
   color: #fff;
   padding: 20px;
   text-align: right;
