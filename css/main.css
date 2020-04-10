@@ -816,6 +816,7 @@ a{
 }
 .project .single-project{
   position: relative;
+  margin-bottom: 30px;
 }
 .project .project-caption{
   position: absolute;
