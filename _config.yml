@@ -18,14 +18,14 @@ description: Welcome to my profile
 
 # --- Navigation bar options --- #
 
-# List of links in the navigation bar
+# List of links in the navigation bar /tutorials/cubesat
 navbar-links:
   
   Experience: 'Experience'
   Projects:
     - Academic: "Academic"
-    - Tutorials: "/tutorials/cubesat "
-    - Side Project: "tutorialz"
+    - Side Project: "projectz"
+    - Tutorials: "tutorialz"
   Courses: "Courses"
   Resources: "Resources"
 
