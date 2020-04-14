@@ -19,9 +19,9 @@ To generate a Four digit NACA Airfoil using Matlab GUIDE
 * Github link for files - [Click here](https://github.com/PVSSLR/4digit_NACA_AirFoil_Generator)
 
  
- ## Deployment 
+## Deployment 
     
-  ![](images/naca.gif)
+ <img src="{{ 'images/naca.gif' | relative_url }}" />
   
   Run ``airfoil_generator.m`` on matlab or octave and to edit the design open the ``airfoil_generator.fig`` in matlab 
     
@@ -49,17 +49,17 @@ By using the wing span we can calculate various parameters like fuselage length,
 
 
  
- ## Deployment 
+## Deployment 
 
-  ### 1.RC TRAINER CALCULATION SOFTWARE USING MATLAB 
+### 1.RC TRAINER CALCULATION SOFTWARE USING MATLAB 
     
-  ![](media/trainer.gif)
+ <img src="{{ 'images/trainer.gif' | relative_url }}" />
   
   Run ``RC_Design.m`` on matlab or octave and to edit the design open the ``RC_Design.fig`` in matlab 
-    
-  ### 2.RC DELTA CALCULATION SOFTWARE USING MATLAB 
+
+### 2.RC DELTA CALCULATION SOFTWARE USING MATLAB 
   
-  ![](media/de.gif)
+<img src="{{ 'images/de.gif' | relative_url }}" />
   
  * Change the name of the file from ``RC_Delta.m`` to ``de.m`` and ``RC_Delta.fig`` to ``de.fig``
  * Run ``de.m`` on matlab or octave and to edit the design open the ``de.fig`` in matlab 
