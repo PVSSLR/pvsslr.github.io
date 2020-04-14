@@ -4,6 +4,8 @@ title: Projects
 ---
 ## EFFECT OF CHOPPED CARBON FIBRE REINFORCED WITH NATURAL FIBRES
 
+<img src="{{ 'images/fibres2.jpg' | relative_url }}" />
+
 The mechanical characterization of chopped carbon fibre (CCF) of different lengths (0.5cm and 1cm) mixed with Epoxy Resin 
 (commercial name: LY556) added as a reinforcement to the flax/sisal composite laminates. The natural composite laminates 
 were fabricated with the two different materials such as flax/sisal with and without adding chopped Carbon fibre of varying 
