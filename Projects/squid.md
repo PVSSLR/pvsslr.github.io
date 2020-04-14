@@ -1,3 +1,8 @@
+---
+layout: page
+title: Academic Projects
+---
+
 ##  SQUID JET PROPULSION
 
 Squid jet propulsion is an efficient mode of underwater propulsion.  Squid is a biological living marine organism, which 
