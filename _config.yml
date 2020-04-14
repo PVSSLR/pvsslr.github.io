@@ -24,7 +24,7 @@ navbar-links:
   Experience: 'Experience'
   Projects:
     - Academic: "Academic"
-    - Side Project: "projectz"
+    - Side Project: "SideProjects"
     - Tutorials: "tutorials"
   Courses: "Courses"
   Resources: "Resources"
