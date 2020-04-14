@@ -6,7 +6,7 @@ title: Side Projects
 # 1. Breakboard Power Supply
 
  <img src="{{ 'images/gif.gif' | relative_url }}" />
- <br>
+ <br> <br>
 This project is a part of the course "Tech Explorations™ KiCad Like a Pro 2nd edition" and in this project we design a 
 breadboard power supply(5V) using KiCad, which can be used with Arduino. I would like to thank Peter Dalmaris for making this wonderful course.
 
@@ -41,7 +41,7 @@ The prerequisites are given below
 
 # 2. nRF24_Breakout_Board
  <img src="{{ 'images/3.gif' | relative_url }}" />
-  <br>
+  <br> <br>
 This project is a part of the course "Tech Explorations™ KiCad Like a Pro 2nd edition" in which a breakout board with an inbuild capacitor is designed for nRF24 module. 
 
 ### Prerequisites
