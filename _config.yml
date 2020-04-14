@@ -70,12 +70,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
   email: "vssunilraj@gmail.com"
-  github: PVVSLR
+  github: PVSSLR
   #twitter: 
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/sunil-raj-shanmugham-a2418b175/
+  linkedin: sunil-raj-shanmugham-a2418b175
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
