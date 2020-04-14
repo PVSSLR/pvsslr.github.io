@@ -1,0 +1,57 @@
+<div class="project">
+    <div class="row">
+       <div class="col-lg-4">
+            <div class="single-project">
+                <a href="https://pvsslr.github.io/Projects/squid/" title="{{ filename }}">
+                    <img src="{{ '/images/nd_squid.png' | relative_url }}" />
+                    <div class="project-caption">
+                         
+                    </div>
+                
+                </a>
+            </div>
+        </div>
+       <div class="col-lg-4">
+            <div class="single-project">
+                <a href="https://pvsslr.github.io/Projects/NaturalFibres/" title="{{ filename }}">
+                    <img src="{{ '/images/fibers.jpg' | relative_url }}" />
+                    <div class="project-caption">
+                        
+                    </div>
+                </a>
+            </div>
+        </div>
+       <div class="col-lg-4">
+            <div class="single-project">
+                <a href="https://pvsslr.github.io/Projects/Biomass/" title="{{ filename }}">
+                    <img src="{{ '/images/biomass2.jpg' | relative_url }}" />
+                    <div class="project-caption">
+                        
+                    </div>
+                </a>
+            </div>
+        </div>
+       <div class="col-lg-4">
+            <div class="single-project">
+                
+                
+                
+            </div>
+        </div>
+       <div class="col-lg-4">
+            <div class="single-project">
+                
+                    
+               
+            </div>
+        </div>
+       <div class="col-lg-4">
+            <div class="single-project">
+                
+                  
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- gallery slider -->
