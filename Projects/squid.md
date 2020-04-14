@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic Projects
+title: Projects
 ---
 
 ##  SQUID JET PROPULSION
