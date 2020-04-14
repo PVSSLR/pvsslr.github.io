@@ -35,11 +35,6 @@ The prerequisites are given below
   2. To view the layouts you can go to [gerlook](http://gerblook.org/)
   3. To fabricate, you can upload the the gerber file to oshpark,pcbway
   
-### NOTE 
-
-This is for Educational Purpose only
-
-
 # 2. nRF24_Breakout_Board
  <img src="{{ 'images/3.gif' | relative_url }}" />
   <br> <br>
