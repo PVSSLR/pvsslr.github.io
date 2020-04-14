@@ -1,3 +1,8 @@
+---
+layout: page
+title: Projects
+---
+
 ## Vegetation Index and Above Ground Biomass Estimation using SAR Imagery
 ## Introduction 
 Biomass is the measure of all living and non-living matter present in vegetation. It is
