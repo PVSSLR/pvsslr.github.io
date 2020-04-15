@@ -17,15 +17,14 @@ subtitle: The Journey So Far
  
   <img src="{{ '/images/IMG_2996.jpg' | relative_url }}" />
   
-<p align="justify">I was selected among 40 students to attend a two-month short course on remote sensing and image analysis, which was conducted by the Indian Institute of Remote Sensing, Indian Space Research Organization, Dehradun, India. The main objective of this program is to train and improve the capacity of working professionals, researchers, and students in the field of remote sensing with special emphasis on processing of remotely sensed data using digital image processing techniques.
+<p align="justify">I was selected among 40 students to attend a two-month short course on remote sensing and image analysis, which was conducted by the Indian Institute of Remote Sensing, Indian Space Research Organization, Dehradun, India. The main objective of this program is to train and improve the capacity of working professionals, researchers, and students in the field of remote sensing with special emphasis on processing of remotely sensed data using digital image processing techniques.</p>
 
- The course consists of three sections, which are Basics of Remote sensing and Photogrammetry, Digital Image Analysis, and finally, a project work. During this period, I was able to gain both theoretical and practical knowledge in the field of Remote sensing and image analysis. I was also able to network with researchers and working professionals from 15+ countries. I completed a project on “Vegetation Index and Above-ground biomass estimation of sea buckthorn on Leh Ladakh using SAR imagery” under the guidance of Dr. Shashi Kumar. The aim of the project was to study the Synthetic RadarAperture (SAR) polarimetric behavior for vegetation and to predict above-ground biomass using SAR imagery.</p>
+ <p align="justify"> The course consists of three sections, which are Basics of Remote sensing and Photogrammetry, Digital Image Analysis, and finally, a project work. During this period, I was able to gain both theoretical and practical knowledge in the field of Remote sensing and image analysis. I was also able to network with researchers and working professionals from 15+ countries. I completed a project on “Vegetation Index and Above-ground biomass estimation of sea buckthorn on Leh Ladakh using SAR imagery” under the guidance of Dr. Shashi Kumar. The aim of the project was to study the Synthetic RadarAperture (SAR) polarimetric behavior for vegetation and to predict above-ground biomass using SAR imagery.</p>
  
  <img src="{{ 'images/88196498_3190379270972775_7735675917632012288_o.jpg' | relative_url }}" />
   
-<p align="justify">Finally, rafting in holy Ganga river was a once in a lifetime experience and swimming in different degrees of rough water has made me realized how magnificent is mother nature</p> <br>
- 
- <br>
+<p align="justify">Finally, rafting in holy Ganga river was a once in a lifetime experience and swimming in different degrees of rough water has made me realized how magnificent is mother nature</p> 
+
  <b>2.Teaching students in Jet Aerospace Aviation Research Center </b>
  
 <p align="justify">As a Research project executive in Jet Aerospace Aviation Research Center. I got an opportunity to teach and guide undergraduate students in the field of Aerospace. I have taught topics such as microcontrollers, sensors, electronics, programming languages, and remote sensing during that time. I understood that teaching is a two-way thing. The best way to gain knowledge is to teach someone.</p>
