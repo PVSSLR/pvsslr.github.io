@@ -4,7 +4,7 @@ title: Projects
 ---
 
 ##  SQUID JET PROPULSION
-
+<img src="{{ 'images/mechanism.jpg ' | relative_url }}" />
 Squid jet propulsion is an efficient mode of underwater propulsion.  Squid is a biological living marine organism, which 
 locomotes  by compressing and expanding the body(mantle). For jet propulsion to occur, the water flows into the mantle 
 cavity and over the gills through an opening by head. The mantle builds internal pressure by sealing off all orifices. 
