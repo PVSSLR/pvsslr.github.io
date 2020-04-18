@@ -27,7 +27,7 @@ subtitle: The system is changing
 
 	
 <h2>Current Course</h2>
-
+<ul> 
 <li>Introduction to CFD using Matlab and OpenFOAM</li><br>
 <li>Python for Mechanical Engineers</li><br>
 </ul>  
