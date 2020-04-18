@@ -26,7 +26,8 @@ subtitle: The system is changing
 <p align="justify">This one of my favorite courses, the course instructor Dr. charles severance has done an excellent work and 
 the way he teaches this course makes it more intresting. This course is the first part of the python specialization. This course
 doesnt ends here, you will also get an oppurtunity to meet him in person if he visits your country. You will be notified on the time of 
-his arrival through coursera</p>
+his arrival through coursera.</p>
+
 ### MATLAB for the Absolute Beginner, Udemy, May 2018
 <p align="justify">This is a very good refresher course for those who have already used matlab, you can learn
 how to plot graphs, GUIs, animations using matlab. It also has an introduction section to simulink.</p>
