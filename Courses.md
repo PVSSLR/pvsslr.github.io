@@ -16,12 +16,11 @@ subtitle: The system is changing
 <h3>  Geoprocessing using python, IIRS-ISRO Outreach Programme, July 2019 </h3>
 <h3> Arduino Step by Step More than 50 Hours Complete Course, Udemy, June 2019 </h3>
 
-This course not only teaches about Arduino but also other things like C Programming, PCB designing, various controllers (PID, PIC), IOT.
-It took some time to complete this course but it was worth it.
+<p align="justify">This course not only teaches about Arduino but also other things like C Programming, PCB designing, various controllers (PID, PIC), IOT. It took some time to complete this course but it was worth it.</p>
 
 <h3> ENGR2000X: A Hands-on Introduction to Engineering Simulations, edX, May 2019 </h3>
 
-This course is conducted by Cornell University and sponsored by ANSYS. From mathematical modelling to Building simulations of real-world applications using ANSYS® software. You can learn how to conduct simulations for fluid dynamics, structural mechanics using ANSYS.
+<p align="justify">This course is conducted by Cornell University and sponsored by ANSYS. From mathematical modelling to Building simulations of real-world applications using ANSYS® software. You can learn how to conduct simulations for fluid dynamics, structural mechanics using ANSYS.</p>
 
 <h3> Linux Command Line Basics, Udemy, Feburary 2019 </h3>
 
