@@ -7,7 +7,7 @@ subtitle: The system is changing
 
    {% include carousel.html height="525" unit="px" duration="1" %}
 
-<h2>List of online courses:</h2>
+<h2>What I learned from these online courses:</h2>
 
 ### Python for Computer Vision with OpenCV and Deep Learning, Udemy, March 2020
 ### Autodesk Fusion 360 Integrated CAD/CAM/CAE, Coursera, December 2019
