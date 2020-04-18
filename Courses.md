@@ -18,9 +18,11 @@ subtitle: The system is changing
 
 <h3> ENGR2000X: A Hands-on Introduction to Engineering Simulations, edX, May 2019 </h3>
 
+This course is conducted by Cornell University and sponsored by ANSYS. From mathematical modelling to Building simulations of real-world applications using ANSYS® software. You can learn how to conduct simulations for fluid dynamics, structural mechanics using ANSYS.
+
 <h3> Linux Command Line Basics, Udemy, Feburary 2019 </h3>
 
-<p align="justify">In today's world, learning Linux is a must since its an open source operating system. Used in server deployment, robotics(ROS), embedded systems and the list goes on. This course help you to navigate, manipulate, create, view files, write custom linux commands, install virtual machine etc using linux command line.</p>
+<p align="justify">In today's world, learning Linux is a must since its an open source and used in various fields. For example, in server deployment, robotics(ROS), embedded systems and the list goes on. This course help you to navigate, manipulate, create, view files, write custom linux commands, install virtual machine etc using linux command line.</p>
 
 <h3> Programming Foundations with JavaScript, HTML and CSS, Coursera, August 2018 </h3>
 
