@@ -23,9 +23,13 @@ subtitle: The system is changing
 ### Programming Foundations with JavaScript, HTML and CSS, Coursera, , August 2018
 ### Python Data Structures  University of Michigan, Coursera, August 2018
 ### Programming for Everybody (Getting Started with Python), Coursera, May 2018
+<p align="justify">This one of my favorite courses, the course instructor Dr. charles severance has done an excellent work and 
+the way he teaches this course makes it more intresting. This course is the first part of the python specialization. This course
+doesnt ends here, you will also get an oppurtunity to meet him in person if he visits your country. You will be notified on the time of 
+his arrival through coursera</p>
 ### MATLAB for the Absolute Beginner, Udemy, May 2018
 <p align="justify">This is a very good refresher course for those who have already used matlab, you can learn
-how to plot graphs, GUIs, animations using matlab. It also has a introduction section to simulink.</p>
+how to plot graphs, GUIs, animations using matlab. It also has an introduction section to simulink.</p>
    
 	
 
