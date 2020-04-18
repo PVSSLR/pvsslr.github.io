@@ -10,19 +10,16 @@ subtitle: The system is changing
 <h2>What I learned from these online courses:</h2>
 
 ### Python for Computer Vision with OpenCV and Deep Learning, Udemy, March 2020
-
-### Autodesk Fusion 360 Integrated CAD/CAM/CAE, Coursera, December 2019
 ### Intro to Digital Manufacturing with Autodesk Fusion 360, Coursera, November 2019
 ### Drone Programming Primer for Software Development, Udemy, August 2019
 ### Beginning Fortran for Science and Engineering Students, Udemy, August 2019
 ### Geoprocessing using python, IIRS-ISRO Outreach Programme, July 2019
 ### Arduino Step by Step More than 50 Hours Complete Course, Udemy, June 2019
 ### ENGR2000X: A Hands-on Introduction to Engineering Simulations, edX, May 2019
-### Using Python to Access Web Data, University of Michigan, Coursera, March 2019
 ### Linux Command Line Basics, Udemy, Feburary 2019
-### Programming Foundations with JavaScript, HTML and CSS, Coursera, , August 2018
-### Python Data Structures  University of Michigan, Coursera, August 2018
-### Programming for Everybody (Getting Started with Python), Coursera, May 2018
+### Programming Foundations with JavaScript, HTML and CSS, Coursera, August 2018
+<p align="justify">This course introduce you to HTML, CSS and Javascript. Though, it is a short course it helped me to design and modify various part of this website. If you want to learn full web development I suggest Dr. Angela Yu's "The Complete 2020 Web Development Bootcamp" on Udemy.<p>
+### Python for Everybody Specialization, Coursera, May 2018 - March 2019
 <p align="justify">This one of my favorite courses, the course instructor Dr. charles severance has done an excellent work and 
 the way he teaches this course makes it more intresting. This course is the first part of the python specialization. This course
 doesnt ends here, you will also get an oppurtunity to meet him in person if he visits your country. You will be notified on the time of 
