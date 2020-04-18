@@ -10,10 +10,21 @@ subtitle: The system is changing
 <h2>What I learned from these online courses:</h2>
 
 <h3> Python for Computer Vision with OpenCV and Deep Learning, Udemy, March 2020</h3>
+
 <h3> Intro to Digital Manufacturing with Autodesk Fusion 360, Coursera, November 2019</h3>
+
 <h3> Drone Programming Primer for Software Development, Udemy, August 2019</h3>
+
+<p align="justify">It took three days for me just to install the required softwares (Dronekit, MAVproxy, Mission planner ) in Ubuntu for this course but believe me after that I understood how a linux operating system works. What if you can simulate and command a drone or ROV in a virtual enviroment and it can also be implemented in real life. I learned how the hardware, software and firmware of drone intereact with each other. After this course you can make your own drone using APM or pixhawk and pre plan their flight path. <p
+
 <h3> Beginning Fortran for Science and Engineering Students, Udemy, August 2019</h3>
+
+<p align="justify">As we know Fortran is a legacy languages.I was lucky to find this course since  its hard to find tutorials or a course based on fortran. This course covers the basic syntax part of fortran95. Good for those who want experience fortran hype.</p>
+
 <h3>  Geoprocessing using python, IIRS-ISRO Outreach Programme, July 2019 </h3>
+
+<p align="justify">This course was conducted by Indian Institute of Remote Sensing which is a part of Indian space research organisation. Here I learned about geoprocessing using python libraries such as OGR, geopandas, numpy, GDAL etc and other concepts such as vector analysis, raster analysis. Later I got an oppurtunity to visit IIRS and during that I had an advantage since I already attended this course.</p>
+
 <h3> Arduino Step by Step More than 50 Hours Complete Course, Udemy, June 2019 </h3>
 
 <p align="justify">This course not only teaches about Arduino but also other things like C Programming, PCB designing, various controllers (PID, PIC), IOT. It took some time to complete this course but it was worth it.</p>
