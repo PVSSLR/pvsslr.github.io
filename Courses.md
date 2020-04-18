@@ -19,7 +19,7 @@ subtitle: The system is changing
 
 <h3> Beginning Fortran for Science and Engineering Students, Udemy, August 2019</h3>
 
-<p align="justify">As we know Fortran is a legacy languages.I was lucky to find this course since  its hard to find tutorials or a course based on fortran. This course covers the basic syntax part of fortran95. Good for those who want experience fortran hype.</p>
+<p align="justify">As we know Fortran is a legacy languages.I was lucky to find this course since  its hard to find tutorials or a course based on fortran. This course covers the basic syntax part of fortran95. Good for those who want to experience fortran.</p>
 
 <h3>  Geoprocessing using python, IIRS-ISRO Outreach Programme, July 2019 </h3>
 
