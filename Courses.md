@@ -9,9 +9,13 @@ subtitle: The system is changing
 
 <h2>What I learned from these online courses:</h2>
 
+<h3> CAD and Digital Manufacturing Specialization, Coursera, November 2019 - Present</h3>
+
+Currently attending this course. This course is based on generative design which is the future.
+
 <h3> Python for Computer Vision with OpenCV and Deep Learning, Udemy, March 2020</h3>
 
-<h3> Intro to Digital Manufacturing with Autodesk Fusion 360, Coursera, November 2019</h3>
+<p align="justify">After using Remote sensing/Image processing softwares such as ERDAS, ENVI, SNAP. I wanted to learn image processing using python to apply in the field of remote sensing and robotics.  This course is well structured and all the code are created using jupyter live script. I learned image processing, video processing using OpenCV. It also has an Capstone project which is helpful since we could implement what ever we learned.</p>
 
 <h3> Drone Programming Primer for Software Development, Udemy, August 2019</h3>
 
