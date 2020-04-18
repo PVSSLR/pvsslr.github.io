@@ -10,6 +10,7 @@ subtitle: The system is changing
 <h2>What I learned from these online courses:</h2>
 
 ### Python for Computer Vision with OpenCV and Deep Learning, Udemy, March 2020
+
 ### Autodesk Fusion 360 Integrated CAD/CAM/CAE, Coursera, December 2019
 ### Intro to Digital Manufacturing with Autodesk Fusion 360, Coursera, November 2019
 ### Drone Programming Primer for Software Development, Udemy, August 2019
@@ -23,6 +24,9 @@ subtitle: The system is changing
 ### Python Data Structures  University of Michigan, Coursera, August 2018
 ### Programming for Everybody (Getting Started with Python), Coursera, May 2018
 ### MATLAB for the Absolute Beginner, Udemy, May 2018
+<p align="justify">This is a very good refresher course for those who have already used matlab, you can learn
+how to plot graphs, GUIs, animations using matlab. It also has a introduction section to simulink.</p>
+   
 	
 
 	
