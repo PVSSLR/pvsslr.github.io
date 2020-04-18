@@ -20,7 +20,7 @@ Currently attending this course. This course is based on generative design which
 
 <h3> Drone Programming Primer for Software Development, Udemy, August 2019</h3>
 
-<p align="justify">It took three days for me just to install the required softwares (Dronekit, MAVproxy, Mission planner ) in Ubuntu for this course but believe me after that I understood how a linux operating system works. What if you can simulate and command a drone or ROV in a virtual enviroment and it can also be implemented in real life. I learned how the hardware, software and firmware of drone intereact with each other. After this course you can make your own drone using APM or pixhawk and pre plan their flight path. <p
+<p align="justify">It took three days for me just to install the required softwares (Dronekit, MAVproxy, Mission planner ) in Ubuntu for this course but believe me after that I understood how a linux operating system works. What if you can simulate and command a drone or ROV in a virtual enviroment and it can also be implemented in real life. I learned how the hardware, software and firmware of drone intereact with each other. After this course you can make your own drone using APM or pixhawk and pre plan their flight path. </p>
 
 <h3> Beginning Fortran for Science and Engineering Students, Udemy, August 2019</h3>
 
