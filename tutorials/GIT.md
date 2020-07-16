@@ -2,7 +2,7 @@
 
 
 
-## GIT 
+## GIT Cheat Sheet 
 
 ## Version Control  
 
