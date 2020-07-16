@@ -10,8 +10,8 @@
 
 The prerequisites are given below
 ```
-*Github, gitlab account 
-*Git Bash
+ A. Github, gitlab account 
+ B. Git Bash
 ```
 ### Installing
 Install Git Bash - [Click Here](https://git-scm.com/downloads) 
@@ -20,7 +20,7 @@ Install Git Bash - [Click Here](https://git-scm.com/downloads)
 Git is the industry-standard version control system for web developers
 Use Git commands to help keep track of changes made to a project:
 
-* ``git init`` creates a new Git repository
+*  ``git init`` creates a new Git repository
 * ``git status`` inspects the contents of the working directory and staging area
 * ``git add`` adds files from the working directory to the staging area
 * ``git diff`` shows the difference between the working directory and the staging area
@@ -35,14 +35,14 @@ Use Git commands to help keep track of changes made to a project:
 ``git commit -m "First commit"`` to make your first commit with the new README file.
 ``git push origin master`` to repo
 
-### head commit
+### HEAD Commit
 In Git, the commit you are currently on is known as the HEAD commit. In many cases, the most recently made commit is the HEAD commit.
 ```
 git show HEAD
 ```
 The output of this command will display everything the git log command displays for the HEAD commit, plus all the file changes that were committed.
 
-### git checkout
+### GIT Checkout
 What if you decide to change the ghost’s line in the working directory, but then decide you wanted to discard that change?
 
 You could rewrite the line how it was originally, but what if you forgot the exact wording? The command
@@ -51,11 +51,11 @@ git checkout HEAD filename
 ```
 will restore the file in your working directory to look exactly as it did when you last made a commit.
 
-### Add multiple files 
+### Add Multiple Files 
 ```
 more git add
 ```
-### git reset I
+### GIT Reset I
 Great! The files you’ve added to the staging area belong in the same commit.
 
 What if, before you commit, you accidentally delete an important line
@@ -66,7 +66,7 @@ git reset HEAD filename
 ```
 This command resets the file in the staging area to be the same as the HEAD commit. It does not discard file changes from the working directory, it just removes them from the staging area.
 
-### git reset II
+### GIT Reset II
 Creating a project is like hiking in a forest. Sometimes you take a wrong turn and find yourself lost.
 
 Just like retracing your steps on that hike, Git enables you to rewind to the part before you made the wrong turn. You can do this with:
