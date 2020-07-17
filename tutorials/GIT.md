@@ -92,14 +92,15 @@ Up to this point, you’ve worked in a single Git branch called master. Git allo
 In this lesson, we’ll be using Git branching to develop multiple versions of a resumé.
 
 You can use the command below to answer the question: “which branch am I on?”
-
-``git checkout``
-
+```
+git checkout
+```
 Great! You just created a new branch.
 
 The master and fencing branches are identical: they share the same exact commit history. You can switch to the new branch with
-
-``git checkout branch_name``
+```
+git checkout branch_name
+```
 
 ### git branch
 
@@ -108,11 +109,15 @@ Congratulations! You have switched to a new branch. All the commands you do on m
 
 For example, to add files to the staging area, use:
 
-``git add filename``
+```
+git add filename
+```
 
 And to commit, use:
 
-``git commit -m "Commit message"``
+```
+git commit -m "Commit message"
+```
 
 In a moment, you will make a commit on the fencing branch. On the far right, the diagram shows what will happen to the Git project.
 
@@ -121,11 +126,15 @@ In a moment, you will make a commit on the fencing branch. On the far right, the
 
 What if you wanted include all the changes made to the fencing branch on the master branch? We can easily accomplish this by merging the branch into master with:
 
-``git merge branch_name``
+```
+git merge branch_name
+```
 
 For example, if I wanted to merge the skills branch to master, I would enter
 
-``git merge skills``
+```
+git merge skills
+```
 
 In a moment, you’ll merge branches. Keep in mind:
 
@@ -147,7 +156,9 @@ This is called a merge conflict.
 
 In Git, branches are usually a means to an end. You create them to work on a new project feature, but the end goal is to merge that feature into the master branch. After the branch has been integrated into master, it has served its purpose and can be deleted.
 
-``git branch -d branch_name``
+```
+git branch -d branch_name
+```
 
 will delete the specified branch from your Git project.
 
