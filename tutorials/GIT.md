@@ -85,4 +85,78 @@ HEAD is now set to that previous commit.
 
 
  
- 
+### git branch
+
+Up to this point, you’ve worked in a single Git branch called master. Git allows us to create branches to experiment with versions of a project. Imagine you want to create version of a story with a happy ending. You can create a new branch and make the happy ending changes to that branch only. It will have no effect on the master branch until you’re ready to merge the happy ending to the master branch.
+
+In this lesson, we’ll be using Git branching to develop multiple versions of a resumé.
+
+You can use the command below to answer the question: “which branch am I on?”
+
+``git checkout``
+
+Great! You just created a new branch.
+
+The master and fencing branches are identical: they share the same exact commit history. You can switch to the new branch with
+
+``git checkout branch_name``
+
+### git branch
+
+commit on a new branch
+Congratulations! You have switched to a new branch. All the commands you do on master, you can also do on this branch.
+
+For example, to add files to the staging area, use:
+
+``git add filename``
+
+And to commit, use:
+
+``git commit -m "Commit message"``
+
+In a moment, you will make a commit on the fencing branch. On the far right, the diagram shows what will happen to the Git project.
+
+
+### git merge
+
+What if you wanted include all the changes made to the fencing branch on the master branch? We can easily accomplish this by merging the branch into master with:
+
+``git merge branch_name``
+
+For example, if I wanted to merge the skills branch to master, I would enter
+
+``git merge skills``
+
+In a moment, you’ll merge branches. Keep in mind:
+
+Your goal is to update master with changes you made to fencing.
+fencing is the giver branch, since it provides the changes.
+master is the receiver branch, since it accepts those changes.
+
+
+### merge conflict I
+
+The merge was successful because master had not changed since we made a commit on fencing. Git knew to simply update master with changes on fencing.
+
+What would happen if you made a commit on master before you merged the two branches? 
+Furthermore, what if the commit you made on master altered the same exact text you worked on in fencing? 
+When you switch back to master and ask Git to merge the two branches, Git doesn’t know which changes you want to keep. 
+This is called a merge conflict.
+
+### delete branch
+
+In Git, branches are usually a means to an end. You create them to work on a new project feature, but the end goal is to merge that feature into the master branch. After the branch has been integrated into master, it has served its purpose and can be deleted.
+
+``git branch -d branch_name``
+
+will delete the specified branch from your Git project.
+
+Now that master contains all the file changes that were in fencing, let’s delete fencing.
+
+
+``git clone`` Creates a local copy of a remote.
+``git remote -v`` Lists a Git project’s remotes.
+``git fetch `` Fetches work from the remote into the local copy.
+``git merge origin/master`` Merges origin/master into your local branch.
+``git push origin <branch_name>`` Pushes a local branch to the origin remote.
+``git pull`` get data from repo
