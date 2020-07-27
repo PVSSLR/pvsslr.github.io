@@ -30,10 +30,11 @@ root(equation)
 ## Solve system of linear Equations
 
 ax+by = c 
+
 dx+ey = f
 
 |a   b|      | e |
-|     | X =  |   | 
+        X =      
 |c   d|      | f |
 
 To solve the system of linear equations we can find X(x,y) 
@@ -82,4 +83,4 @@ b. To define a 2D function
 ```
 f = inline('x+y','x','y')
 f(x)
-```
+``` 
