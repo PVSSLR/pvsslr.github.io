@@ -29,12 +29,10 @@ root(equation)
 ```
 ## Solve system of linear Equations
 
-ax+by = c 
-
-dx+ey = f
+To solve system of equations such as ax+by = c and dx+ey = f
 
 |a   b|      | e |
-        X =      
+|     |  X = |   |  
 |c   d|      | f |
 
 To solve the system of linear equations we can find X(x,y) 
@@ -84,3 +82,37 @@ b. To define a 2D function
 f = inline('x+y','x','y')
 f(x)
 ``` 
+
+## Differentiation 
+
+you should need a function a.k.a inline 
+
+to differentiate we need to use ``diff``
+
+```
+diff(f(x),x)
+```
+here f(x) is the function which you want to differentiate w.r.t X
+
+For derivative function 
+
+```
+deri = inline(diff((f(x)),'x'))
+deri(x)
+```
+## Intergration 
+
+First define a function using inline command and then youse ``int``
+
+```
+int(f(x))
+int(f(x),n1,n2)
+
+```
+To take limit for a function
+
+```
+limit(f(x),x,n)
+```
+where x->n
+
