@@ -116,3 +116,23 @@ limit(f(x),x,n)
 ```
 where x->n
 
+## Solving First order ODEs 
+
+To solve ODE in matlab we use ``ode45``
+
+```
+[tsol,ysol]ode45(derivative_function,interval,initial_cond)
+```
+``derivative_function`` is the function w.r.t ``t`` and ``y``, Interval (eg time), Initial value ``t(0) =  y0``
+
+```
+derivative_function = -x-5
+x0 = 1 
+time = [0,5]
+[tsol,xsol] = ode45(derivative_function,time,x0)
+```
+
+
+
+
+
