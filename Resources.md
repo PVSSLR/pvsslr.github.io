@@ -4,20 +4,6 @@ title: Resources
 subtitle: The ones which I recommend
 ---
 
-### Youtube Channel 
-
-[Paul McWhorter](https://www.youtube.com/channel/UCfYfK0tzHZTpNFrc_NDKfTA) - For Arduino, Jetson Nano, Beaglebone black, Rasberry Pi.
-
-[Brian Douglas](https://www.youtube.com/user/ControlLectures) - Control System Lectures
-
-[Professor Leonard](https://www.youtube.com/user/professorleonard57) - Calculus
-
-[Iman](https://www.youtube.com/channel/UCVkatNMgkEdpWLhH0kBqqLw) - Signal Processing
-
-
-
-
-
 ### Source to learn programming
 
 [Hackerrank](https://www.hackerrank.com)
@@ -60,3 +46,21 @@ subtitle: The ones which I recommend
 [codepen](https://codepen.io/)
 
 [Google Colab](https://colab.research.google.com/)
+
+### Research 
+
+Reference Manager -  [mendeley](https://www.mendeley.com/reference-management/mendeley-desktop)
+
+Time management   -  [toggl](https://toggl.com/)
+
+How to write Research paper - [Click here](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
+
+### Youtube Channel 
+
+[Paul McWhorter](https://www.youtube.com/channel/UCfYfK0tzHZTpNFrc_NDKfTA) - For Arduino, Jetson Nano, Beaglebone black, Rasberry Pi.
+
+[Brian Douglas](https://www.youtube.com/user/ControlLectures) - Control System Lectures
+
+[Professor Leonard](https://www.youtube.com/user/professorleonard57) - Calculus
+
+[Iman](https://www.youtube.com/channel/UCVkatNMgkEdpWLhH0kBqqLw) - Signal Processing
