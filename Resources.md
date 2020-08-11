@@ -55,6 +55,8 @@ Time management   -  [toggl](https://toggl.com/)
 
 How to write Research paper - [Click here](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
+Free/low cost resources for graduate students - [Click here](https://docs.google.com/document/d/1IFbHIN5OOAO0qz-VfCU9nEx4-x6CfArj1-d8ylA2vsU/edit#)
+
 ### Youtube Channel 
 
 [Paul McWhorter](https://www.youtube.com/channel/UCfYfK0tzHZTpNFrc_NDKfTA) - For Arduino, Jetson Nano, Beaglebone black, Rasberry Pi.
