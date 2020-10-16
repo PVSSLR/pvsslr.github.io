@@ -50,3 +50,13 @@ Free/low cost resources for graduate students - [Click here](https://docs.google
 [Professor Leonard](https://www.youtube.com/user/professorleonard57) - Calculus
 
 [Iman](https://www.youtube.com/channel/UCVkatNMgkEdpWLhH0kBqqLw) - Signal Processing
+
+### vscode on ubuntu 
+
+Go to Extensions
+Install your desired extension for C/C++, Python etc
+Install code runner by Jun Han
+
+### Other Extensions  
+Atom One Dark by Mahmoud Ali 
+C/C++ Project Generator by Danielpinto8zz6
