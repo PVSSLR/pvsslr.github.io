@@ -51,6 +51,8 @@ Free/low cost resources for graduate students - [Click here](https://docs.google
 
 [Iman](https://www.youtube.com/channel/UCVkatNMgkEdpWLhH0kBqqLw) - Signal Processing
 
+[The Coding Train](https://www.youtube.com/c/TheCodingTrain) - Nature of Code, p5.js, Processing.
+
 ### vscode on ubuntu 
 
 Go to Extensions
