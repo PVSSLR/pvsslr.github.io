@@ -59,8 +59,7 @@ how to plot graphs, GUIs, animations using matlab. It also has an introduction s
 	
 <h2>Current Course</h2>
 <ul> 
-<li>Introduction to CFD using Matlab and OpenFOAM</li><br>
-<li>Python for Mechanical Engineers</li><br>
+<li>Modern Robotics Specialization</li><br>
 </ul>  
 <ul>  
 <h2> Future Interest</h2>
