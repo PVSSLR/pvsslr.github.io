@@ -4,8 +4,6 @@ title: Resources
 subtitle: The ones which I recommend
 ---
 
-<iframe src="https://editor.p5js.org/vssunil1997/embed/T_kftxnbK"></iframe>
-
 ### Source to learn programming
 
 [Hackerrank](https://www.hackerrank.com)
