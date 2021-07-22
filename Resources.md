@@ -4,63 +4,9 @@ title: Resources
 subtitle: The ones which I recommend
 ---
 
-### Source to learn programming
+### Shipping Line Tracking
 
-[Hackerrank](https://www.hackerrank.com)
-[Sololearn](https://www.sololearn.com)
-[Codecademy](https://www.codecademy.com/)
-[Khancademy](https://www.khanacademy.org/)
-[Coursera](https://www.coursera.org/)
-[Edx](https://www.edx.org/)
-[Udemy](https://www.udemy.com/)
-[PracticePython](https://practicepython.org)
+[MSC](https://www.msc.com/track-a-shipment?agencyPath=mwi)
+[CMA-CGM]https://www.cma-cgm.com/ebusiness/tracking)
+[HSUD](https://www.hamburgsud-line.com/liner/en/liner_services/ecommerce/visibility/track_trace/index.html)
 
-### Text Editors
-[Notepad++](https://notepad-plus-plus.org/)
-[Atom](https://atom.io/)
-[Sublimetext](https://www.sublimetext.com/)
-[Jetbrains](https://www.jetbrains.com/)
-[Wingware](https://wingware.com/)
-[Anaconda](https://www.anaconda.com/)
-[Visualstudio](https://visualstudio.microsoft.com/)
-
-### Cloud programming websites
-
-[Pythonanywhere](https://www.pythonanywhere.com/)
-[cs50](https://www.cs50.io)
-[codepen](https://codepen.io/)
-[Google Colab](https://colab.research.google.com/)
-
-### Research 
-
-Reference Manager -  [mendeley](https://www.mendeley.com/reference-management/mendeley-desktop)
-
-Time management   -  [toggl](https://toggl.com/)
-
-How to write Research paper - [Click here](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
-
-Free/low cost resources for graduate students - [Click here](https://docs.google.com/document/d/1IFbHIN5OOAO0qz-VfCU9nEx4-x6CfArj1-d8ylA2vsU/edit#)
-
-### Youtube Channel 
-
-[Paul McWhorter](https://www.youtube.com/channel/UCfYfK0tzHZTpNFrc_NDKfTA) - For Arduino, Jetson Nano, Beaglebone black, Rasberry Pi.
-
-[Brian Douglas](https://www.youtube.com/user/ControlLectures) - Control System Lectures
-
-[Professor Leonard](https://www.youtube.com/user/professorleonard57) - Calculus
-
-[Iman](https://www.youtube.com/channel/UCVkatNMgkEdpWLhH0kBqqLw) - Signal Processing
-
-[The Coding Train](https://www.youtube.com/c/TheCodingTrain) - Nature of Code, p5.js, Processing.
-
-[Christopher Lum](https://www.youtube.com/c/ChristopherLum/) - Rotational Matrix, Euler Angles etcs.
-
-### vscode on ubuntu 
-
-Go to Extensions
-Install your desired extension for C/C++, Python etc
-Install code runner by Jun Han
-
-### Other Extensions  
-Atom One Dark by Mahmoud Ali 
-C/C++ Project Generator by Danielpinto8zz6
