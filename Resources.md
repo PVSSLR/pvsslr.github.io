@@ -13,10 +13,10 @@ subtitle: The ones which I recommend
 [Maersk](https://www.maersk.com/tracking/)
 [hapag-lloyd](https://www.hapag-lloyd.com/en/online-business/track/track.html)
 
-### CLAUSE 
+### CLAUSE/DESCRIPTION
 
 ```
-INVOiCING AND BROKERAGE PARTY
+INVOICING AND BROKERAGE PARTY
 SANJAY FORWARDERS PVT. LTD.,
 BBC VILLA COMPLEX, FLAT NO.28,
 2ND FLOOR, NO.65, PRAKASAM SALAI,
@@ -24,4 +24,7 @@ BROADWAY, CHENNAI 600 108
 INDIA.
 PAN NO: AAGCS0525D
 GST REG NO: 33AAGCS0525D1ZX
+FREIGHT 
+XX DAYS FREE TIME ON DESTINATION 
+NEED RATED OBL
 ```
