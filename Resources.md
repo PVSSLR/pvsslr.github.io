@@ -28,3 +28,10 @@ FREIGHT
 XX DAYS FREE TIME ON DESTINATION 
 NEED RATED OBL
 ```
+
+```
+pop.rediffmailpro.com  110
+smtp.rediffmailpro.com 587
+5
+```
+
